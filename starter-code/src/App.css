@@ -1,5 +1,13 @@
+*{
+  padding:0 5px;
+
+}
 .App {
-  text-align: center;
+  text-align: left;
+  width:50%;
+  margin: auto;
+  display: block;
+  list-style-type: none;
 }
 
 .App-logo {
